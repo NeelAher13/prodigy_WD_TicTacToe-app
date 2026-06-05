@@ -21,8 +21,8 @@
     height: 55px;
     font-size: 1.2rem;
     border-radius: 2rem;
-    color: red;
-    border-color: red ;
+    color: green;
+    border-color: green ;
     background: none;
     border-style: solid ;
     cursor: pointer;
@@ -34,7 +34,7 @@
 }
 
 .resetButton:hover{
-    background-color: red;
+    background-color: green;
     color: white;
     font-size: 1.3rem;
     text-align: center;
